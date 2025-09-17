@@ -1,0 +1,101 @@
+customer_id,name,email,country,join_date
+1,Allison Hill,jillrhodes@miller.com,Djibouti,2024-08-26
+2,Kristina Baldwin,shaneramirez@gmail.com,Senegal,2025-04-16
+3,Jay Ramirez,curtis61@abbott-munoz.com,Saint Lucia,2024-07-21
+4,Valerie Gray,barbara10@hotmail.com,Denmark,2025-03-22
+5,Bobby Hall,oramirez@martin-kelly.com,Reunion,2025-07-27
+6,Andrea Reid,stevennelson@watts.com,Denmark,2025-04-29
+7,Ethan Adams,jason76@ellis.net,Martinique,2024-02-20
+8,Jessica Silva,wendytaylor@yahoo.com,Bermuda,2025-03-09
+9,Brian Burton,cruzcaitlin@yahoo.com,Malta,2024-02-11
+10,Shannon Smith,kayla51@graham-chavez.com,Macao,2025-03-13
+11,Thomas Harrell,ericfarmer@hotmail.com,Zimbabwe,2025-03-26
+12,Tamara George,rodriguezmichael@yahoo.com,Dominican Republic,2023-09-13
+13,Keith Miller,spenceamanda@gmail.com,Brunei Darussalam,2024-12-24
+14,Joshua Baker,sarahcampos@hotmail.com,Cook Islands,2025-02-03
+15,Zachary Santos,omartinez@gmail.com,Guadeloupe,2023-08-16
+16,Crystal Robinson,perezrebecca@jones-young.info,Croatia,2024-09-21
+17,Timothy Duncan,kristenaguirre@gmail.com,Bhutan,2023-10-14
+18,Heather Jenkins,brownjessica@wright.net,Kiribati,2023-11-16
+19,Donald Wright,jmorton@williams.com,Bermuda,2025-07-19
+20,Cynthia Russell,michellebarrera@gmail.com,Hong Kong,2023-08-01
+21,Mrs. Rachel Gibson,smoore@gmail.com,Azerbaijan,2024-10-22
+22,Amy Edwards,hshaw@brown.com,Thailand,2023-12-22
+23,Barry Hensley,davidashley@hotmail.com,Nauru,2023-08-30
+24,Jennifer Silva,james53@yahoo.com,Indonesia,2023-11-09
+25,Elizabeth Stewart,ellisyolanda@jones.net,Estonia,2023-11-10
+26,Shirley Suarez,eric84@hotmail.com,Sri Lanka,2024-12-19
+27,Mary Spencer,josephpreston@tran.com,Costa Rica,2025-01-14
+28,Deborah Freeman,waltersmaria@smith.com,Central African Republic,2025-02-25
+29,Michael Hoffman,landryhannah@gardner.org,Mexico,2023-11-23
+30,Andrew Diaz,jason31@deleon-henson.biz,Nicaragua,2025-03-04
+31,Timothy Hancock,vjohnson@patton-jenkins.com,Ethiopia,2023-12-01
+32,Ashley Brennan,jamessellers@yahoo.com,Gambia,2025-04-28
+33,Crystal Johnson,emurphy@bell-hicks.net,Greenland,2025-07-29
+34,Shawn Green,rodriguezryan@hotmail.com,Solomon Islands,2024-03-30
+35,William Wilson,bradley60@frost.com,Haiti,2024-06-29
+36,Matthew Rivera,cortezkevin@yahoo.com,Papua New Guinea,2024-06-12
+37,Michael Spencer,yortega@adkins.biz,Mayotte,2025-05-08
+38,Dustin Jordan,rramos@gmail.com,Madagascar,2024-08-01
+39,Toni Fitzgerald,zachary95@cardenas.com,Czech Republic,2025-04-17
+40,Alexander Sanchez,gibsonolivia@hotmail.com,Congo,2025-02-07
+41,Kathleen Sanchez,osbornejeffery@holmes.com,Korea,2023-11-11
+42,Mary Travis,usalazar@hotmail.com,Japan,2025-05-06
+43,Jill Moore,pgreen@hotmail.com,Falkland Islands (Malvinas),2025-03-16
+44,Kari Allen,reevesjimmy@yahoo.com,Ghana,2025-06-23
+45,Brenda Hall,calebrussell@owens.biz,United Kingdom,2025-03-19
+46,Melissa Gates,wsmith@yahoo.com,Sao Tome and Principe,2024-05-28
+47,Tiffany Barnes,brobinson@johnson-rogers.biz,Saint Kitts and Nevis,2023-12-06
+48,Tamara Hooper,qvargas@miller.com,Tonga,2024-07-23
+49,David Murphy,matthew64@yahoo.com,El Salvador,2025-05-09
+50,Alec Ryan,debraharrington@hotmail.com,Armenia,2025-03-07
+51,David Combs,davidcaldwell@gould.com,Chad,2024-11-12
+52,Nicole Wilson,daniel04@byrd.com,Belarus,2024-11-01
+53,Lori Garcia,hoganashlee@gmail.com,Guatemala,2024-09-16
+54,Jacob Hunter,atkinsonlynn@gmail.com,Jersey,2024-05-07
+55,Sandra Zimmerman,jessicasheppard@yahoo.com,New Zealand,2025-04-18
+56,Patricia Marshall,melissa14@yahoo.com,Ecuador,2025-03-04
+57,Leonard Gray,lrosales@lewis-salinas.com,Fiji,2025-06-13
+58,Sheryl Peters,allenrichard@chang.info,Kiribati,2025-04-06
+59,Edward Sullivan,elizabeth57@schmidt.com,Guinea,2025-01-26
+60,Eric Hall,david82@robinson.com,Saint Kitts and Nevis,2024-10-30
+61,Kelly Campbell,kennethward@smith-ferguson.com,Aruba,2023-09-11
+62,Melissa Martinez,salasaudrey@yahoo.com,Lesotho,2024-07-07
+63,Vincent King,shortrichard@gmail.com,Montserrat,2024-11-30
+64,Brittany Shepherd,mcknightdavid@yahoo.com,Netherlands,2024-11-05
+65,Courtney Mills,levans@yahoo.com,Gambia,2024-10-14
+66,Lisa Singh,josephmiller@thompson.com,Afghanistan,2024-06-12
+67,Kirk Carter,jasmine71@hall.org,Panama,2025-04-15
+68,Jessica Stephens,margaret10@sparks.org,Uruguay,2024-03-11
+69,John Torres,vincent77@gmail.com,Nepal,2023-08-30
+70,Morgan Munoz,perezemily@matthews.com,Montserrat,2023-08-31
+71,Casey Stone,howard96@hotmail.com,Suriname,2024-08-15
+72,Julie Ortiz,hodgemark@hotmail.com,Lithuania,2024-03-10
+73,Jennifer Hodges,qmiller@wilson-barton.net,Sweden,2023-07-31
+74,Kimberly Gutierrez,cindy77@harris.com,Vanuatu,2024-03-10
+75,Michael Martinez,lancesmith@davis-gay.com,Kyrgyz Republic,2023-10-30
+76,Brittany Cantu,robert77@gmail.com,Korea,2024-10-01
+77,Connor Greene,hillkristy@morgan-french.com,Swaziland,2023-08-01
+78,Edwin Matthews,seanwashington@yahoo.com,Mexico,2025-03-14
+79,Jordan Morris,ashleyhall@williams-garner.biz,Hungary,2024-12-27
+80,Marissa Hernandez,waynelawrence@sawyer.com,Mali,2025-07-07
+81,Nathan Ortiz,harrisontanya@hanson-sanders.com,Timor-Leste,2024-04-11
+82,Shannon James,cbrennan@hotmail.com,Bangladesh,2024-01-29
+83,Tammie Bright,wgood@padilla.com,United Kingdom,2023-08-22
+84,Robert Carter,hthomas@yahoo.com,Monaco,2025-01-10
+85,Carolyn Miller,tyleraguilar@gmail.com,Kyrgyz Republic,2024-12-07
+86,David Smith,erica21@yahoo.com,Western Sahara,2024-04-24
+87,Elizabeth Hayden DDS,james67@gmail.com,Dominica,2024-05-22
+88,Laura Haney,spencedominique@yahoo.com,Algeria,2024-10-12
+89,Paula Beltran,kimberly39@yahoo.com,Cyprus,2024-12-06
+90,David Campos,bergerdebbie@kramer-johnson.com,Saint Martin,2023-11-10
+91,Edward Burgess,davidryan@schmidt-mcintyre.com,Equatorial Guinea,2025-07-09
+92,Karen Drake,mcdonaldcharles@gmail.com,Tokelau,2025-01-06
+93,Veronica Coffey,gibbsalexander@hotmail.com,British Virgin Islands,2024-07-18
+94,Paul Baker,daniel37@gmail.com,Nicaragua,2025-06-16
+95,Erin Bishop,tblankenship@ortiz.com,Lithuania,2023-10-29
+96,Stephen Taylor,ellen86@hotmail.com,Samoa,2025-02-14
+97,Jason Garcia,rcrosby@gmail.com,Portugal,2024-05-13
+98,Jeremy Young,pollardmichael@hotmail.com,Guinea-Bissau,2023-09-16
+99,Colton Martinez,batesdarlene@hotmail.com,Angola,2023-09-08
+100,Dana Martinez,gallegosangela@robinson.com,Solomon Islands,2025-06-29

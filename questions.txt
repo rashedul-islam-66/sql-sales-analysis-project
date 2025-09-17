@@ -1,0 +1,46 @@
+✅ BASIC LEVEL
+How many total customers are in the database?
+
+What is the total number of orders placed?
+
+How many products are available in the inventory?
+
+What is the total revenue from completed orders?
+
+Which product has been sold the most (by quantity)?
+
+List the top 3 most popular product categories (by total quantity sold).
+
+Which country has the highest number of customers?
+
+List all orders that were cancelled.
+
+🟡 INTERMEDIATE LEVEL
+Calculate total revenue by product category.
+
+Find the top 10 customers by total revenue.
+
+Determine the average order value (AOV) per country.
+
+How many customers have placed more than 5 orders?
+
+Find the month-wise order count trend for the last 12 months.
+
+Show total quantity of items sold per product (ordered descending).
+
+List customers who placed their first order in the last 30 days.
+
+Show the number of completed vs cancelled vs returned orders by month.
+
+🔴 ADVANCED LEVEL
+Calculate Customer Lifetime Value (CLV) = total revenue per customer.
+
+Find the top 3 revenue-generating products per category.
+
+Calculate the % contribution of each category to the overall revenue.
+
+Which customers have not placed any orders in the last 3 months?
+
+Build a cumulative revenue trend month-by-month.
+
+Find orders that include more than 3 different products.
